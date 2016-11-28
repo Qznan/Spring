@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+#解决逆波兰表达式，求一个十进制数的二进制表达，检查括号匹配问题以及图的深度搜索等等
 class Solution:
     def __init__(self):
         self.stack = []

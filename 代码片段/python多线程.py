@@ -1,5 +1,6 @@
 #! /usr/bin/env python
-# -*- coding:utf-8 -*-
+# -*- coding: utf-8 -*-
+:utf-8 -*-
 from threading import Thread
 import subprocess
 from Queue import Queue
